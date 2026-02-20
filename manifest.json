@@ -2,7 +2,7 @@
   "name": "Level Up - Life System",
   "short_name": "Level Up",
   "description": "Solo Leveling Life System - Trading, Training & Disziplin",
-  "start_url": "./level-up-life-system-v2.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0b0b0b",
